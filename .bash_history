@@ -1,87 +1,3 @@
-git commit -m "bucles_python"
-git pull origin master
-git push origin master
-sudo apt-get update && apt-get upgrade
-cd ejercicios_python/bucles/
-cd ..
-code .
-cd bucles/
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio3.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio4.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-python3 ejercicio5.py
-1000
-100
-python3 ejercicio5.py
-python3 ejercicio5.py
 python3 ejercicio5.py
 python3 ejercicio6.py
 python3 ejercicio6.py
@@ -498,3 +414,87 @@ git commit -m "commit_x"
 git pull origin master
 git push origin master
 /usr/bin/python3.9
+cd ejercicios_python/lis
+cd ejercicios_python/listas_tuplas/
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+python3 ejercicio11.py
+cd ..
+cd ..
+git remote set-url git@github.com:LRB96/repositorio_python.git
+git remote set-url git@github.com:LRB96/repositorio_python.git (ssh)
+git remote set-url git@github.com:LRB96/repositorio_python.git (ssh) github
+explorer.exe .
+git remote set-url git@github.com:LRB96/repositorio_python.git ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCZ2hdI/D+DI0qib3DiqFHjm9EQOvm8DsAu7cDQEaBYjVSs4DZFn2UoiryQ9DVY96XceGZ6aOgbEQuRnaeaOEwPpPchEE7r17cKIasFKrs5ifsJHSg0xNiRP4VT+tkeX9Jr3+KRnCKEFrgMf3tGk9ljo86paHZCKc+xpZC8Q7FI5l+6FheZ+IaUGY406/NRDgmRhTY12SqZ/gs+XxInjcLAxdlK5/wtXk4VGnXtTLKZMWxOFiABPvOHUNXDTNBq3b6730RO7jYTFPMoHR9OpYl+HWax8Z49L85i+VakhS2xZn+g523dEN5zAYtSvEoa+HkJH3DYYWYbQzimc+ixl2qC7JyvKZfmmYyr5u1E7So2EjMerf6HTZUf/qwHh5gZFqlP84DES02uxtm6V7HL3rnKNQGg3tEpYN88m5nX8XAycWOBXB3bLD5TNCLL9j5w9BrfpHgHOK7Gwteec06LyCPY67OyFQHQI6BNy2ugjnFuz5iwlDVlbI5LQ5KNgrPTIar2RG2KC2vTkgDL+hTB1anAoNrjH1KnP/AiOReog5SFuXJfxT7+5Z+gNKdCYvZwVuhc5DJy1HdOJROOZbVA3Z7OItQmIev+cGe+efjP1F+Wr9rK+gpTzAsstuAxSKJErSFJc5xMSOSv8NlMfGf4qGtXDlfbFKwG2sGGwJRfG3Zp+w== alrojasb96@hotmail.com
+git remote set-url git@github.com:LRB96/repositorio_python.git
+git remote add origin url
+git log
+git remote add origin url
+git remote
+git remote -v
+git pull origin master --allow-unrelated-histories
+git push origin master
+git pull origin master
+git remote add origin git@github.com:LRB96/repositorio_python.git
+git branch -M master
+git push -u origin master
+git remote add origin git@github.com:LRB96/repositorio_python.git
+git branch -M master
+git push -u origin master
+git status
+git add .
+git commit -m "otro_commit"
+git log
+git pull origin master
+git remote add origin git@github.com:LRB96/repositorio_python.git
+git remote
+git remote -v
+git pull origin master --allow-unrelated-histories
+git push origin master
+rm -rf djangoproject/
+pwd
+git init
+git status
+git add .
+git log
+git commit -m "primer_commit"
+git remote
+gti remote -v
+source punto_files/.bashrc
+update
+git config --global
+git config --global user.email "alrojasb96@hotmail.com"
+git config --global user.email
+ssh-keygen -t rsa -b 4096 -C "alrojasb96@hotmail.com"
+eval$(ssh-agent -s)
+eval$ (ssh-agent -s)
+eval $(ssh-agent -s)
+ssh-add /home/lrb96/.ssh/id_rsa
+git remote set-url git@github.com:LRB96/repositorio_python.git
+git remote add origin git@github.com:LRB96/repositorio_python.git
+git remote
+git remote -v
+git pull origin master --allow-unrelated-histories 
+git push origin master
+git pull origin master
+git pull origin master --allow-unrelated-histories 
+git push origin master
+git status
+git pull origin master
+git push origin master
+cd ejercicios_python/listas_tuplas/
+code .
+cd ~
+git status
+git add .
+git commit -m "segundo_commit"
+git pull origin master
+git push origin master
