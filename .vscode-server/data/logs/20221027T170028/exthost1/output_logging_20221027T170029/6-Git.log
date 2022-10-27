@@ -1,0 +1,23 @@
+[2022-10-27T22:00:31.549Z] Nivel de registro: Info
+[2022-10-27T22:00:31.558Z] [info] La validación encontró Git en: git
+[2022-10-27T22:00:31.940Z] [info] Usando GIT 2.25.1 desde git
+[2022-10-27T22:00:32.436Z] > git rev-parse --show-toplevel [463ms]
+[2022-10-27T22:00:32.519Z] > git rev-parse --git-dir --git-common-dir [77ms]
+[2022-10-27T22:00:32.525Z] [info] Open repository: /home/lrb96
+[2022-10-27T22:00:32.609Z] > git rev-parse --show-toplevel [73ms]
+[2022-10-27T22:00:32.645Z] > git status -z -uall [114ms]
+[2022-10-27T22:00:32.703Z] > git symbolic-ref --short HEAD [51ms]
+[2022-10-27T22:00:32.720Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+[2022-10-27T22:00:32.753Z] > git remote --verbose [20ms]
+[2022-10-27T22:00:32.754Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+[2022-10-27T22:00:32.798Z] > git config --get commit.template [22ms]
+[2022-10-27T22:00:32.944Z] > git status -z -uall [138ms]
+[2022-10-27T22:00:32.962Z] > git symbolic-ref --short HEAD [4ms]
+[2022-10-27T22:00:32.986Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+[2022-10-27T22:00:33.008Z] > git remote --verbose [2ms]
+[2022-10-27T22:00:33.009Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-10-27T22:00:33.017Z] > git config --get commit.template [0ms]
+[2022-10-27T22:00:33.224Z] > git check-ignore -v -z --stdin [43ms]
+[2022-10-27T22:00:33.436Z] > git show --textconv :pandas_ejercicios/students_performance.py [17ms]
+[2022-10-27T22:00:33.437Z] > git ls-files --stage -- /home/lrb96/pandas_ejercicios/students_performance.py [11ms]
+[2022-10-27T22:00:33.444Z] > git cat-file -s 3d307d88810fefb16df15d9998c218f4027c5d7c [3ms]
