@@ -1,3 +1,80 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+pwd
+ls- la
+ls -al
+cd django_password_generator/
+ls -al
+django admin
+python3 manage.py runserver
+pwd
+cd ..
+pwd
+git status
+git add .
+git commit -m "django-app_final"
+git pull pull origin master
+git pull origin master
+git push origin master
+git status
+explorer.exe .
+git status
+git status
+explorer.exe .
+explorer.exe .
+cd 
+explorer.exe .
+cd
+pwd
+explorer.exe .
+sudo apt-get update && apt-get upgrade
+code .
+git status
+git log
+git pull origin master
+git pull origin master
+git push origin master
+git push origin master
+explorer.exe .
+ls -al
+rm -rf .git
+git config --global user.mail
+git config --global user.email "alrojasb96@hotmail.com"
+git config
+git config --global user.email
+ssh - keygen -t rsa -b 4096 -C "alrojasb96@hotmail.com"
+ssh- keygen -t rsa -b 4096 -C "alrojasb96@hotmail.com"
+ssh -keygen -t rsa -b 4096 -C "alrojasb96@hotmail.com"
+ssh-keygen -t rsa -b 4096 -C "alrojasb96@hotmail.com"
+eval$(ssh-agent -s)
+eval $(ssh-agent -s)
+ssh-add /home/lrb96/id_rsa_
+ssh-add /home/lrb96/.ssh/id_rsa
+git remote set-url origin git@github.com:LRB96/repositorio_python.git
+git remote set-url repositorio_python git@github.com:LRB96/repositorio_python.git
+git remote set-url repositorio_python git@github.com:LRB96/repositorio_python.
+git log
+explorer.exe .
+git init
+git remote set-url git@github.com:LRB96/repositorio_python.git
+git remote set-url origin git@github.com:LRB96/repositorio_python.git
+=======
+python3 ejercicio5.py
+python3 ejercicio6.py
+python3 ejercicio6.py
+python3 ejercicio6.py
+python3 ejercicio6.py
+python3 ejercicio6.py
+cd ~
+git status
+git add .
+git commit- -m "bucles_python_parte1"
+git commit -m "bucles_python_parte1"
+git pull origin master
+git push origin master
+/bin/python3.9 /home/lrb96/ejercicios_python/bucles/ejercicio6.py
+>>>>>>> 2e0fd77ea5bb89a4c0c4cb60467ed987ce76bab6
 /bin/python3.9 /home/lrb96/ejercicios_python/bucles/ejercicio6.py
 /bin/python3.9 /home/lrb96/ejercicios_python/bucles/ejercicio6.py
 cd ejercicios_python/
@@ -484,6 +561,7 @@ git add .
 git commit -m "segundo_commit"
 git pull origin master
 git push origin master
+<<<<<<< HEAD
 pwd
 mkdir python_pandas
 cd python_pandas/
@@ -498,3 +576,6 @@ git commit -m "pandas_installed"
 git log
 git pull origin master
 git push origin master
+=======
+>>>>>>> 92007f425ae893bcbdba76bce9cb8c0009100887
+>>>>>>> 2e0fd77ea5bb89a4c0c4cb60467ed987ce76bab6
