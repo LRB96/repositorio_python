@@ -1,0 +1,22 @@
+[2022-10-27 16:47:00.714] [exthost] [info] Extension host with pid 2279 started
+[2022-10-27 16:47:00.727] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/383ce20a46ae4fdc8fde0df1d41377be/vscode.lock': Lock acquired.
+[2022-10-27 16:47:00.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-27 16:47:00.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-27 16:47:00.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-27 16:47:00.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-27 16:47:00.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-27 16:47:01.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-27 16:47:01.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-27 16:47:01.008] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-27 16:47:01.008] [exthost] [info] Eager extensions activated
+[2022-10-27 16:47:02.377] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-27 16:47:02.378] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-27 16:47:02.378] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-27 16:47:03.236] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-10-27 16:47:03.298] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-10-27 16:47:09.650] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-10-27 16:47:10.572] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10005
+[2022-10-27 16:47:11.749] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-10-27 16:48:17.840] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-27 16:48:17.841] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/383ce20a46ae4fdc8fde0df1d41377be/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-27 16:48:17.864] [exthost] [info] Extension host with pid 2279 exiting with code 0

@@ -1,0 +1,32 @@
+[Info  - 4:23:29 PM] (604) Pylance language server 2022.10.30 (pyright 50e12b4b) starting
+[Info  - 4:23:29 PM] (604) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist
+[Info  - 4:23:29 PM] (604) Starting service instance "ejercicio_pandas"
+[Info  - 4:23:29 PM] (604) Notebook support: LSP
+[Info  - 4:23:29 PM] (604) Interactive window support: LSP
+[Info  - 4:23:29 PM] (604) No configuration file found.
+[Info  - 4:23:29 PM] (604) No pyproject.toml file found.
+[Info  - 4:23:29 PM] (604) Setting pythonPath for service "ejercicio_pandas": "/home/lrb96/fastapi_python/main.py"
+[Warn  - 4:23:29 PM] (604) stubPath /home/lrb96/ejercicio_pandas/typings is not a valid directory.
+[Info  - 4:23:29 PM] (604) Unable to get Python version from interpreter
+[Info  - 4:23:29 PM] (604) Assuming Python platform Linux
+[Info  - 4:23:29 PM] (604) Searching for source files
+[Info  - 4:23:29 PM] (604) Found 1 source file
+[Info  - 4:23:29 PM] (604) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist
+[Info  - 4:23:29 PM] (604) Background analysis(1) started
+[Info  - 4:23:29 PM] (604) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist (index)
+[Info  - 4:23:29 PM] (604) Indexing(2) started
+[Info  - 4:23:29 PM] (604) Indexer done(2). indexed 445 files
+[Info  - 4:27:17 PM] (604) No configuration file found.
+[Info  - 4:27:17 PM] (604) No pyproject.toml file found.
+[Info  - 4:27:17 PM] (604) Setting pythonPath for service "ejercicio_pandas": "/usr/bin/python3.9"
+[Warn  - 4:27:17 PM] (604) stubPath /home/lrb96/ejercicio_pandas/typings is not a valid directory.
+[Info  - 4:27:17 PM] (604) Assuming Python version 3.9
+[Info  - 4:27:17 PM] (604) Assuming Python platform Linux
+[Info  - 4:27:17 PM] (604) Searching for source files
+[Info  - 4:27:17 PM] (604) Found 1 source file
+[Info  - 4:27:17 PM] (604) Indexer background runner(3) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist (index)
+[Info  - 4:27:17 PM] (604) Indexing(3) started
+[Info  - 4:27:18 PM] (604) Indexer done(3). indexed 480 files
+[Info  - 4:46:16 PM] (604) Searching for source files
+[Error - 4:46:16 PM] (604) File or directory "/home/lrb96/ejercicio_pandas" does not exist.
+[Info  - 4:46:16 PM] (604) No source files found.

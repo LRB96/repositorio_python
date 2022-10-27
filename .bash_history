@@ -1,17 +1,3 @@
-python3 ejercicio5.py
-python3 ejercicio6.py
-python3 ejercicio6.py
-python3 ejercicio6.py
-python3 ejercicio6.py
-python3 ejercicio6.py
-cd ~
-git status
-git add .
-git commit- -m "bucles_python_parte1"
-git commit -m "bucles_python_parte1"
-git pull origin master
-git push origin master
-/bin/python3.9 /home/lrb96/ejercicios_python/bucles/ejercicio6.py
 /bin/python3.9 /home/lrb96/ejercicios_python/bucles/ejercicio6.py
 /bin/python3.9 /home/lrb96/ejercicios_python/bucles/ejercicio6.py
 cd ejercicios_python/
@@ -496,5 +482,19 @@ cd ~
 git status
 git add .
 git commit -m "segundo_commit"
+git pull origin master
+git push origin master
+pwd
+mkdir python_pandas
+cd python_pandas/
+pip install pandas
+touch python_pandas.py
+code .
+cd ..
+pwd
+git status
+git add .
+git commit -m "pandas_installed"
+git log
 git pull origin master
 git push origin master

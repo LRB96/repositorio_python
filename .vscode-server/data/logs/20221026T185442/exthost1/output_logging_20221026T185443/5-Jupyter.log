@@ -10,3 +10,10 @@ info 18:56:05.062: Got empty env vars with python /usr/bin/python3.9 in 59ms
 info 18:56:05.063: Got env vars ourselves faster /usr/bin/python3.9 with env var count 24 in 61ms
 info 18:56:05.068: Process Execution: > /usr/bin/python3.9 -m pip list
 > /usr/bin/python3.9 -m pip list
+info 18:59:27.286: Shutting down notebooks for 04aca39a-07de-4abf-b5a8-b2ebf86b6789
+info 18:59:27.286: Disposing HostJupyterExecution 61d82ba7-9422-45f4-9e74-960e86e157c4
+info 18:59:27.286: Disposing super HostJupyterExecution 61d82ba7-9422-45f4-9e74-960e86e157c4
+info 18:59:27.286: Disposing HostJupyterExecution 61d82ba7-9422-45f4-9e74-960e86e157c4
+info 18:59:27.286: Finished disposing HostJupyterExecution  61d82ba7-9422-45f4-9e74-960e86e157c4
+info 18:59:27.292: Cleaning up server cache 61d82ba7-9422-45f4-9e74-960e86e157c4
+info 18:59:27.293: Finished disposing HostJupyterExecution  61d82ba7-9422-45f4-9e74-960e86e157c4
