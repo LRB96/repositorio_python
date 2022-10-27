@@ -1,0 +1,1 @@
+fecha = input("Escribe tu fecha de na")

@@ -1,0 +1,18 @@
+[Info  - 3:17:25 PM] (170) Pylance language server 2022.10.30 (pyright 50e12b4b) starting
+[Info  - 3:17:25 PM] (170) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist
+[Info  - 3:17:25 PM] (170) Starting service instance "ejercicios_python"
+[Info  - 3:17:25 PM] (170) Notebook support: LSP
+[Info  - 3:17:25 PM] (170) Interactive window support: LSP
+[Info  - 3:17:25 PM] (170) No configuration file found.
+[Info  - 3:17:25 PM] (170) No pyproject.toml file found.
+[Info  - 3:17:25 PM] (170) Setting pythonPath for service "ejercicios_python": "/bin/python3.9"
+[Warn  - 3:17:25 PM] (170) stubPath /home/lrb96/ejercicios_python/typings is not a valid directory.
+[Info  - 3:17:25 PM] (170) Assuming Python version 3.9
+[Info  - 3:17:25 PM] (170) Assuming Python platform Linux
+[Info  - 3:17:25 PM] (170) Searching for source files
+[Info  - 3:17:25 PM] (170) Found 58 source files
+[Info  - 3:17:26 PM] (170) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist
+[Info  - 3:17:26 PM] (170) Background analysis(1) started
+[Info  - 3:17:26 PM] (170) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.30/dist (index)
+[Info  - 3:17:26 PM] (170) Indexing(2) started
+[Info  - 3:17:27 PM] (170) Indexer done(2). indexed 480 files

@@ -1,0 +1,12 @@
+Visual Studio Code (1.72.2, wsl, desktop)
+Jupyter Extension Version: 2022.9.1202862440.
+Python Extension Version: 2022.16.1.
+Workspace folder /home/lrb96/python_pandas
+info 18:54:50.433: ZMQ install verified.
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+info 18:54:50.737: LSP Notebooks experiment is enabled
+info 18:56:05.062: Got empty env vars with python /usr/bin/python3.9 in 59ms
+info 18:56:05.063: Got env vars ourselves faster /usr/bin/python3.9 with env var count 24 in 61ms
+info 18:56:05.068: Process Execution: > /usr/bin/python3.9 -m pip list
+> /usr/bin/python3.9 -m pip list

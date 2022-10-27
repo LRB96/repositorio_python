@@ -1,0 +1,2 @@
+edad =
+ingresos_mensuales = 

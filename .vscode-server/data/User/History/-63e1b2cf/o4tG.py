@@ -1,0 +1,5 @@
+numerador = float(input("Escribe un número, entero o decimal: "))
+denominador = float(input("Escribe otro número, entero o decimal: "))
+if numerador or denominador == 0:
+    print("No se puede dividir por 0.")
+print(f"{numerador} dividido entre {denominador} da igual a: {numerador/denominador}.")
