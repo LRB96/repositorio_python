@@ -1,28 +1,3 @@
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio9.py
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio9.py
-python3 ejercicio9.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
 python3 ejercicio10.py
 python3 ejercicio10.py
 python3 ejercicio10.py
@@ -498,3 +473,28 @@ git commit -m "ejercicio1.2_pandas"
 git pull origin master
 explorer.exe .
 git pull origin master
+source punto_files/.bashrc
+git status
+git pull origin master
+ssh-keygen -t rsa -b 4096 -C "alrojasb96@hotmail.com
+ssh-keygen -t rsa -b 4096 -C "alrojasb96@hotmail.com"
+eval 
+eval $(ssh-agent -s)
+ssh-add /home/lrb96/.ssh/id_rsa
+git remote set-url git@github.com:LRB96/repositorio_python.git
+git remote
+git remote set-url --add git@github.com:LRB96/repositorio_python.git
+git remote add origin master git@github.com:LRB96/repositorio_python.git
+git pull origin master
+git push origin master
+git log
+git status
+git add .
+git commit -m "archivos_.vscode"
+git pull origin master
+git push origin master
+start the ssh-agent in the background
+eval $(ssh-agent -s)
+git status
+git pull origin master
+git push origin master
