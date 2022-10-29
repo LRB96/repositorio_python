@@ -23,13 +23,11 @@ print("\n")
 reglon = pd.Series(name="Japón", data=[126,1.62], index=["Poblacion", "Porcentaje"])
 # print(reglon)
 print("\n")
-paises = paises.append(reglon)
+paises = pd.concat(reglon)
 print(paises)
 print("\n")
 paises.drop(["Japón"],axis=0,inplace=True)
 print(paises)
-print("\n")
-print(paises.cumsum())
 
 
 

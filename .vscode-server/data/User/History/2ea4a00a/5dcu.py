@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 nombre_paises=["China","India","Estados Unidos", "Indonesia","Pakistán","Brasil","Nigeria","Bangladesh","Rusia","México"]
 encabezado = ["Poblacion","Porcentaje"]
@@ -30,6 +31,8 @@ paises.drop(["Japón"],axis=0,inplace=True)
 print(paises)
 print("\n")
 print(paises.cumsum())
+print(paises.boxplot())
+
 
 
 

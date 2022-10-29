@@ -1,0 +1,18 @@
+Visual Studio Code (1.72.2, wsl, desktop)
+Jupyter Extension Version: 2022.9.1202862440.
+Python Extension Version: 2022.16.1.
+Workspace folder /home/lrb96/pandas_ejercicios
+info 14:16:23.694: ZMQ install verified.
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+info 14:16:24.213: LSP Notebooks experiment is enabled
+info 14:16:24.892: Got empty env vars with python /usr/bin/python3.9 in 323ms
+info 14:16:24.898: Process Execution: > /usr/bin/python3.9 -m pip list
+> /usr/bin/python3.9 -m pip list
+info 15:05:25.650: Shutting down notebooks for 7a7a0f7e-3acb-4755-a54b-60b00a0764ad
+info 15:05:25.650: Disposing HostJupyterExecution 01ac6268-94ce-4d3c-90aa-fa826e456f3b
+info 15:05:25.650: Disposing super HostJupyterExecution 01ac6268-94ce-4d3c-90aa-fa826e456f3b
+info 15:05:25.651: Disposing HostJupyterExecution 01ac6268-94ce-4d3c-90aa-fa826e456f3b
+info 15:05:25.651: Finished disposing HostJupyterExecution  01ac6268-94ce-4d3c-90aa-fa826e456f3b
+info 15:05:25.657: Cleaning up server cache 01ac6268-94ce-4d3c-90aa-fa826e456f3b
+info 15:05:25.657: Finished disposing HostJupyterExecution  01ac6268-94ce-4d3c-90aa-fa826e456f3b

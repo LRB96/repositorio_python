@@ -29,7 +29,8 @@ print("\n")
 paises.drop(["Japón"],axis=0,inplace=True)
 print(paises)
 print("\n")
-print(paises.cumsum())
+paises.cumsum()
+print(paises)
 
 
 

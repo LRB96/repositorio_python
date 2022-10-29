@@ -20,16 +20,12 @@ print(paises.iloc[0:4])
 print("\n")
 print(paises.loc["Brasil"])
 print("\n")
-reglon = pd.Series(name="Japón", data=[126,1.62], index=["Poblacion", "Porcentaje"])
-# print(reglon)
-print("\n")
+reglon = pd.Series(name="Japón", data=[126,1.62], index=["Población", "Porcentaje"])
+print(reglon)
 paises = paises.append(reglon)
 print(paises)
-print("\n")
-paises.drop(["Japón"],axis=0,inplace=True)
-print(paises)
-print("\n")
-print(paises.cumsum())
+
+
 
 
 

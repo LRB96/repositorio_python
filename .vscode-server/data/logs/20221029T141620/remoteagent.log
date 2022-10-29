@@ -1,0 +1,35 @@
+[2022-10-29 14:16:20.650] [remoteagent] [info] Extension host agent started.
+[2022-10-29 14:16:20.780] [remoteagent] [info] [127.0.0.1][283dbf33][ManagementConnection] New connection established.
+[2022-10-29 14:16:20.862] [remoteagent] [info] [127.0.0.1][0d407d7b][ManagementConnection] New connection established.
+[2022-10-29 14:16:21.002] [remoteagent] [info] [127.0.0.1][289ea909][ExtensionHostConnection] New connection established.
+[2022-10-29 14:16:21.075] [remoteagent] [info] [127.0.0.1][289ea909][ExtensionHostConnection] <395> Launched Extension Host Process.
+[2022-10-29 14:16:21.233] [remoteagent] [info] [127.0.0.1][33d6f3b2][ExtensionHostConnection] New connection established.
+[2022-10-29 14:16:21.271] [remoteagent] [info] [127.0.0.1][33d6f3b2][ExtensionHostConnection] <408> Launched Extension Host Process.
+[2022-10-29 14:16:23.672] [remoteagent] [info] Getting Manifest... github.copilot
+[2022-10-29 14:16:23.715] [remoteagent] [info] Installing extension: github.copilot
+[2022-10-29 14:16:25.617] [remoteagent] [info] Downloaded extension: github.copilot /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/github.copilot-1.56.7152
+[2022-10-29 14:16:25.741] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.6377ee7a-4570-4c65-9ec3-79692371e628: github.copilot
+[2022-10-29 14:16:25.745] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/github.copilot-1.56.7152
+[2022-10-29 14:16:25.748] [remoteagent] [info] Extracting completed. github.copilot
+[2022-10-29 14:16:25.751] [remoteagent] [info] Extension installed successfully: github.copilot
+[2022-10-29 14:16:34.184] [remoteagent] [info] [127.0.0.1][283dbf33][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-29 14:16:34.206] [remoteagent] [info] [127.0.0.1][33d6f3b2][ExtensionHostConnection] <408> Extension Host Process exited with code: 0, signal: null.
+[2022-10-29 15:05:25.627] [remoteagent] [info] [127.0.0.1][0d407d7b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-29 15:05:25.677] [remoteagent] [info] [127.0.0.1][289ea909][ExtensionHostConnection] <395> Extension Host Process exited with code: 0, signal: null.
+[2022-10-29 15:05:26.986] [remoteagent] [info] [127.0.0.1][de70cba9][ManagementConnection] New connection established.
+[2022-10-29 15:05:27.355] [remoteagent] [info] [127.0.0.1][04b2c079][ExtensionHostConnection] New connection established.
+[2022-10-29 15:05:27.360] [remoteagent] [info] [127.0.0.1][04b2c079][ExtensionHostConnection] <4000> Launched Extension Host Process.
+[2022-10-29 15:05:31.951] [remoteagent] [info] Uninstalling extension: knisterpeter.vscode-github@0.30.7
+[2022-10-29 15:05:32.261] [remoteagent] [info] Successfully uninstalled extension: knisterpeter.vscode-github@0.30.7
+[2022-10-29 15:05:32.862] [remoteagent] [info] Getting Manifest... github.vscode-pull-request-github
+[2022-10-29 15:05:32.902] [remoteagent] [info] Installing extension: github.vscode-pull-request-github
+[2022-10-29 15:05:33.322] [remoteagent] [info] [127.0.0.1][de70cba9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-29 15:05:34.280] [remoteagent] [info] [127.0.0.1][04b2c079][ExtensionHostConnection] <4000> Extension Host Process exited with code: 0, signal: null.
+[2022-10-29 15:05:34.460] [remoteagent] [info] [127.0.0.1][9723b193][ManagementConnection] New connection established.
+[2022-10-29 15:05:34.710] [remoteagent] [info] Downloaded extension: github.vscode-pull-request-github /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.52.0
+[2022-10-29 15:05:34.775] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.31b01a7e-8af4-41ad-adfc-35095f0f19eb: github.vscode-pull-request-github
+[2022-10-29 15:05:34.779] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/github.vscode-pull-request-github-0.52.0
+[2022-10-29 15:05:34.781] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
+[2022-10-29 15:05:34.781] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-10-29 15:05:34.904] [remoteagent] [info] [127.0.0.1][11d6e53a][ExtensionHostConnection] New connection established.
+[2022-10-29 15:05:34.911] [remoteagent] [info] [127.0.0.1][11d6e53a][ExtensionHostConnection] <4207> Launched Extension Host Process.

@@ -4,30 +4,6 @@ python3 ejercicio10.py
 python3 ejercicio10.py
 python3 ejercicio10.py
 python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py131
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
 python3 ejercicio10.py4
 python3 ejercicio10.py
 python3 ejercicio10.py
@@ -498,3 +474,27 @@ eval $(ssh-agent -s)
 git status
 git pull origin master
 git push origin master
+source punto_files/.bahsrc
+source punto_files/.bashrc
+cd pandas_ejercicios/
+all
+code .
+python3 df.py
+explorer.exe .
+python3 df.py
+cd ..
+git status
+git add .
+git 
+git log
+git commit -m "students_performance_py"
+git pull origin master
+git push origin master
+source punto_files/.bashrc
+update
+cd pandas_ejercicios/
+all
+touch pandas_1.py
+code.
+code .
+python3 df.py
