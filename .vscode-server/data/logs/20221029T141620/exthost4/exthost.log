@@ -16,3 +16,6 @@
 [2022-10-29 15:05:37.412] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
 [2022-10-29 15:05:37.412] [exthost] [info] Eager extensions activated
 [2022-10-29 15:05:37.794] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: '*'
+[2022-10-29 16:47:44.657] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-29 16:47:44.658] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/383ce20a46ae4fdc8fde0df1d41377be/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-29 16:47:46.678] [exthost] [info] Extension host with pid 4207 exiting with code 0

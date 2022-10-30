@@ -33,3 +33,5 @@
 [2022-10-29 15:05:34.781] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
 [2022-10-29 15:05:34.904] [remoteagent] [info] [127.0.0.1][11d6e53a][ExtensionHostConnection] New connection established.
 [2022-10-29 15:05:34.911] [remoteagent] [info] [127.0.0.1][11d6e53a][ExtensionHostConnection] <4207> Launched Extension Host Process.
+[2022-10-29 16:47:44.657] [remoteagent] [info] [127.0.0.1][9723b193][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-29 16:47:46.688] [remoteagent] [info] [127.0.0.1][11d6e53a][ExtensionHostConnection] <4207> Extension Host Process exited with code: 0, signal: null.

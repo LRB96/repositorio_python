@@ -1,17 +1,4 @@
 python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py4
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
-python3 ejercicio10.py
 cd ~
 pip --version
 sudo apt-get install python3-pip
@@ -498,3 +485,16 @@ touch pandas_1.py
 code.
 code .
 python3 df.py
+source punto_files/.bashrc
+cd pandas_ejercicios/
+all
+python3 df.py
+cd ~
+git status
+git add .
+git log
+git commit -m "comandos_pandas"
+git pull origin master
+git push origin master
+/usr/bin/python3.9 /home/lrb96/pandas_ejercicios/students_performance.py
+/usr/bin/python3.9 /home/lrb96/pandas_ejercicios/students_performance.py

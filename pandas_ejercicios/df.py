@@ -47,3 +47,15 @@ print(paises.cumsum())
 # nombres = ["columna0", "columna1","columna2"]
 # df.columns=nombres
 # print(df)
+
+
+
+
+
+
+
+
+# pd.set_option("display.max_columns", 20)
+# df = pd.read_csv("StudentsPerformance.csv")
+# print(df)
+# print(df.sum(axis=1))

@@ -1,0 +1,5 @@
+[2022-10-29 19:20:09.964] [exthost] [info] Extension host with pid 89 started
+[2022-10-29 19:20:09.988] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/383ce20a46ae4fdc8fde0df1d41377be/vscode.lock': Lock acquired.
+[2022-10-29 19:20:20.152] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-29 19:20:20.152] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/383ce20a46ae4fdc8fde0df1d41377be/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-10-29 19:20:20.153] [exthost] [info] Extension host with pid 89 exiting with code 0
