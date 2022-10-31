@@ -1,26 +1,3 @@
-python3 ejercicio10.py
-cd ~
-pip --version
-sudo apt-get install python3-pip
-pip --version
-git status
-git add .
-git commit -m "bucles_python_parte2"
-git pull origin master
-git push origin master
-/bin/python3.9
-git log
-cd ejercicios_python/
-code .
-cd bucles/
-python3 ejercicio11.py
-python3 ejercicio11.py
-python3 ejercicio11.py
-python3 ejercicio11.py
-python3 ejercicio11.py
-python3 ejercicio11.py
-python3 ejercicio11.py
-python3 ejercicio11.py
 python3 ejercicio12.py
 python3 ejercicio12.py
 me gusta aprender a programar
@@ -498,3 +475,26 @@ git pull origin master
 git push origin master
 /usr/bin/python3.9 /home/lrb96/pandas_ejercicios/students_performance.py
 /usr/bin/python3.9 /home/lrb96/pandas_ejercicios/students_performance.py
+source punto_files/.bashrc
+cd pandas_ejercicios/
+explorer.exe .
+code .
+cd DATASETS/fifa_2020/
+python3 df.py
+python3 fifa_2020.py
+cd ~
+git status
+git add .
+git log
+git commit -m "carpeta_pandas_datasets"
+git pull origin master
+git push origin master
+source punto_files/.bashrc
+update
+cd pan
+cd pandas_ejercicios/
+avenv
+
+python3 df.py
+avenv
+python3 df.py
