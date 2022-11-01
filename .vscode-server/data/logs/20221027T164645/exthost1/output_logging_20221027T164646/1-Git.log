@@ -1,4 +1,0 @@
-[2022-10-27T21:46:47.203Z] Nivel de registro: Info
-[2022-10-27T21:46:47.211Z] [info] La validación encontró Git en: git
-[2022-10-27T21:46:47.247Z] [info] Usando GIT 2.25.1 desde git
-[2022-10-27T21:46:58.479Z] > git rev-parse --show-toplevel [2ms]

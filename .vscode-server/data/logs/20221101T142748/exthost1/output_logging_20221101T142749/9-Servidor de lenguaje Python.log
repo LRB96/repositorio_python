@@ -1,0 +1,37 @@
+[Info  - 2:28:03 PM] (5491) Pylance language server 2022.10.40 (pyright 24992a73) starting
+[Info  - 2:28:03 PM] (5491) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40/dist
+[Info  - 2:28:03 PM] (5491) Starting service instance "lrb96"
+[Info  - 2:28:03 PM] (5491) Notebook support: LSP
+[Info  - 2:28:03 PM] (5491) Interactive window support: LSP
+[Info  - 2:28:03 PM] (5491) No configuration file found.
+[Info  - 2:28:03 PM] (5491) No pyproject.toml file found.
+[Info  - 2:28:03 PM] (5491) Setting pythonPath for service "lrb96": "/home/lrb96/fastapi_python/main.py"
+[Warn  - 2:28:03 PM] (5491) stubPath /home/lrb96/typings is not a valid directory.
+[Info  - 2:28:03 PM] (5491) Unable to get Python version from interpreter
+[Info  - 2:28:03 PM] (5491) Assuming Python platform Linux
+[Info  - 2:28:03 PM] (5491) Searching for source files
+[Info  - 2:28:03 PM] (5491) Auto-excluding /home/lrb96/djangoproject/venv
+[Info  - 2:28:03 PM] (5491) Auto-excluding /home/lrb96/portafolio_python/projects/venv2
+[Info  - 2:28:03 PM] (5491) Found 151 source files
+[Info  - 2:28:03 PM] (5491) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40/dist
+[Info  - 2:28:03 PM] (5491) Background analysis(1) started
+[Info  - 2:28:03 PM] (5491) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40/dist (index)
+[Info  - 2:28:03 PM] (5491) Indexing(2) started
+[Info  - 2:28:03 PM] (5491) Indexer done(2). indexed 445 files
+[Info  - 2:28:41 PM] (5491) Searching for source files
+[Info  - 2:28:41 PM] (5491) Auto-excluding /home/lrb96/djangoproject/venv
+[Info  - 2:28:41 PM] (5491) Auto-excluding /home/lrb96/portafolio_python/projects/venv2
+[Info  - 2:28:41 PM] (5491) Found 151 source files
+[Info  - 2:30:23 PM] (5491) No configuration file found.
+[Info  - 2:30:23 PM] (5491) No pyproject.toml file found.
+[Info  - 2:30:23 PM] (5491) Setting pythonPath for service "lrb96": "/bin/python3.9"
+[Warn  - 2:30:23 PM] (5491) stubPath /home/lrb96/typings is not a valid directory.
+[Info  - 2:30:23 PM] (5491) Assuming Python version 3.9
+[Info  - 2:30:23 PM] (5491) Assuming Python platform Linux
+[Info  - 2:30:23 PM] (5491) Searching for source files
+[Info  - 2:30:23 PM] (5491) Auto-excluding /home/lrb96/djangoproject/venv
+[Info  - 2:30:23 PM] (5491) Auto-excluding /home/lrb96/portafolio_python/projects/venv2
+[Info  - 2:30:23 PM] (5491) Found 151 source files
+[Info  - 2:30:23 PM] (5491) Indexer background runner(3) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40/dist (index)
+[Info  - 2:30:23 PM] (5491) Indexing(3) started
+[Info  - 2:30:24 PM] (5491) Indexer done(3). indexed 480 files

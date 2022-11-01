@@ -9,3 +9,10 @@ info 18:21:02.018: LSP Notebooks experiment is enabled
 info 18:21:02.594: Got empty env vars with python /usr/bin/python3.9 in 97ms
 info 18:21:02.603: Process Execution: > /usr/bin/python3.9 -m pip list
 > /usr/bin/python3.9 -m pip list
+info 20:02:37.069: Shutting down notebooks for 8cb00ac2-6537-4ce5-9ad5-9672aff48292
+info 20:02:37.069: Disposing HostJupyterExecution 181fb390-d22d-4cef-a9fd-16107ebe26a4
+info 20:02:37.069: Disposing super HostJupyterExecution 181fb390-d22d-4cef-a9fd-16107ebe26a4
+info 20:02:37.069: Disposing HostJupyterExecution 181fb390-d22d-4cef-a9fd-16107ebe26a4
+info 20:02:37.069: Finished disposing HostJupyterExecution  181fb390-d22d-4cef-a9fd-16107ebe26a4
+info 20:02:37.075: Cleaning up server cache 181fb390-d22d-4cef-a9fd-16107ebe26a4
+info 20:02:37.075: Finished disposing HostJupyterExecution  181fb390-d22d-4cef-a9fd-16107ebe26a4

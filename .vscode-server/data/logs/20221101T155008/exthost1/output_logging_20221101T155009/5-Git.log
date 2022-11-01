@@ -1,0 +1,22 @@
+[2022-11-01T20:50:10.594Z] Nivel de registro: Info
+[2022-11-01T20:50:10.601Z] [info] La validación encontró Git en: git
+[2022-11-01T20:50:10.705Z] [info] Usando GIT 2.25.1 desde git
+[2022-11-01T20:50:10.938Z] > git rev-parse --show-toplevel [224ms]
+[2022-11-01T20:50:10.958Z] > git rev-parse --git-dir --git-common-dir [13ms]
+[2022-11-01T20:50:10.963Z] [info] Open repository: /home/lrb96
+[2022-11-01T20:50:11.002Z] > git rev-parse --show-toplevel [22ms]
+[2022-11-01T20:50:11.021Z] > git rev-parse --show-toplevel [9ms]
+[2022-11-01T20:50:11.039Z] > git rev-parse --show-toplevel [11ms]
+[2022-11-01T20:50:11.071Z] > git rev-parse --show-toplevel [24ms]
+[2022-11-01T20:50:11.667Z] > git check-ignore -v -z --stdin [51ms]
+[2022-11-01T20:50:11.668Z] > git show --textconv :pandas_ejercicios/df.py [37ms]
+[2022-11-01T20:50:11.668Z] > git ls-files --stage -- /home/lrb96/pandas_ejercicios/df.py [27ms]
+[2022-11-01T20:50:11.682Z] > git cat-file -s 2bc8428b502ef172248334360d99ec0ad3205269 [4ms]
+[2022-11-01T20:50:12.264Z] > git ls-files --stage -- /home/lrb96/pandas_ejercicios/df.py [11ms]
+[2022-11-01T20:50:12.271Z] > git cat-file -s 2bc8428b502ef172248334360d99ec0ad3205269 [1ms]
+[2022-11-01T20:50:12.295Z] > git show --textconv :pandas_ejercicios/df.py [11ms]
+[2022-11-01T20:50:12.324Z] > git fetch [1355ms]
+[2022-11-01T20:50:12.413Z] > git status -z -uall [1439ms]
+[2022-11-01T20:50:13.532Z] > git ls-files --stage -- /home/lrb96/pandas_ejercicios/df.py [9ms]
+[2022-11-01T20:50:13.538Z] > git cat-file -s 2bc8428b502ef172248334360d99ec0ad3205269 [1ms]
+[2022-11-01T20:50:13.555Z] > git show --textconv :pandas_ejercicios/df.py [7ms]

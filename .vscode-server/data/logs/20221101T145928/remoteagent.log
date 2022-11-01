@@ -1,0 +1,9 @@
+[2022-11-01 14:59:28.382] [remoteagent] [info] Extension host agent started.
+[2022-11-01 14:59:28.556] [remoteagent] [info] [127.0.0.1][2aa2e976][ManagementConnection] New connection established.
+[2022-11-01 14:59:28.777] [remoteagent] [info] [127.0.0.1][10f5ca36][ExtensionHostConnection] New connection established.
+[2022-11-01 14:59:28.858] [remoteagent] [info] [127.0.0.1][10f5ca36][ExtensionHostConnection] <9271> Launched Extension Host Process.
+[2022-11-01 14:59:29.054] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.10.40
+[2022-11-01 15:10:09.091] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /usr/local/lib/python3.9/dist-packages)
+[2022-11-01 15:10:09.091] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-11-01 15:30:36.295] [remoteagent] [info] [127.0.0.1][2aa2e976][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-01 15:30:36.363] [remoteagent] [info] [127.0.0.1][10f5ca36][ExtensionHostConnection] <9271> Extension Host Process exited with code: 0, signal: null.

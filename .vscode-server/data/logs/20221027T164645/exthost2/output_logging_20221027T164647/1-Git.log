@@ -1,8 +1,0 @@
-[2022-10-27T21:46:47.592Z] Nivel de registro: Info
-[2022-10-27T21:46:47.597Z] [info] La validación encontró Git en: git
-[2022-10-27T21:46:47.634Z] [info] Usando GIT 2.25.1 desde git
-[2022-10-27T21:46:47.689Z] > git rev-parse --show-toplevel [37ms]
-[2022-10-27T21:46:47.697Z] > git rev-parse --git-dir --git-common-dir [0ms]
-[2022-10-27T21:46:47.705Z] [info] Open repository: /home/lrb96
-[2022-10-27T21:46:47.846Z] > git status -z -uall [132ms]
-[2022-10-27T21:46:48.262Z] > git check-ignore -v -z --stdin [22ms]

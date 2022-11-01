@@ -1,0 +1,8 @@
+[2022-11-01 14:27:48.049] [remoteagent] [info] Extension host agent started.
+[2022-11-01 14:27:48.145] [remoteagent] [info] [127.0.0.1][ca2ff172][ManagementConnection] New connection established.
+[2022-11-01 14:27:48.505] [remoteagent] [info] [127.0.0.1][18dd11f4][ExtensionHostConnection] New connection established.
+[2022-11-01 14:27:48.518] [remoteagent] [info] [127.0.0.1][18dd11f4][ExtensionHostConnection] <5284> Launched Extension Host Process.
+[2022-11-01 14:39:44.583] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: std::bad_alloc (EUNKNOWN) (path: /usr/local/lib/python3.9/dist-packages)
+[2022-11-01 14:39:44.583] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: std::bad_alloc
+[2022-11-01 14:39:51.198] [remoteagent] [info] [127.0.0.1][ca2ff172][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-01 14:39:51.252] [remoteagent] [info] [127.0.0.1][18dd11f4][ExtensionHostConnection] <5284> Extension Host Process exited with code: 0, signal: null.

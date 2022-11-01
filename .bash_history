@@ -1,114 +1,3 @@
-sudo apt install python-pip
-pip install virtualenv
-sudo apt-get install python3-venv
-python3 -m venv venv
-source venv/bin/activate
-deactivate
-source venv/bin/activate
-deactivate
-cd ..
-git status
-git add .
-git commit -m "bucles_python_parte3"
-git pull origin master
-git push origin master
-sudo apt-get update && apt-get upgrade
-cd ejercicios_python/
-code .
-cd ..
-ls -all
-cd djangoproject/
-source venv/bin/acitvate
-cd ..
-cd pun
-cd punto_files/
-ls -all
-.bashrc
-cd 
-cd punto_files/.bashrc
-djangoproject/.bashrc
-cd djangoproject/.bashrc
-source djangoproject/.bashrc
-cd djangoproject/
-source /.bashrc
-all
-source .bashrc
-cd ..
-source punto_files/.bashrc
-vim ./bashrc
-vim /.bashrc
-vim .bashrc
-vim
-cd djangoproject/
-activate
-cd ..
-explorer.exe .
-sudo apt-get update && apt-get upgrade
-update
-update
-update
-cd punto_files/.bashrc
-source punto_files/.bashrc
-all
-update
-cd punto_files/
-code .
-source /home/lrb96/djangoproject/venv/bin/activate
-sor
-source punto_files/.bashrc
-cd djangoproject/
-avenv
-deactivate
-all
-avenv
-code .
-deactivate
-cd ..
-cd ejercicios_python/
-code .
-explorer.exe .
-cd ..
-cd djangoproject/
-avenv
-code .
-pip install django
-django-admin --version
-django-admin startproject mysite .
-python3 manage.py runserver
-python3 manage.py startapp blog
-python3 manage.py startapp myapp
-deactivate
-cd ..
-git status
-git add .
-git commit -m "djangoproject"
-git pull origin master
-git push origin master
-source punto_files/.bashrc
-cd djangoproject/
-avenv
-code .
-python3 manage.py runserver 3000
-deactivate
-cd ..
-git status
-git add .
-git commit -m "django_project_2"
-git log
-source punto_files/.bashrc
-cd djangoproject/
-avenv
-deactivate
-cd ..
-update
-cd djangoproject/
-avenv
-source punto_files/.bashrc
-update
-cd ejercicios_python/
-code .
-python3 ejercicio.py
-cd ..
 git status
 git add .
 git commit -m "ejercicios_python"
@@ -498,3 +387,114 @@ git log
 git commit -m "pandas_documentation_1"
 git pull origin master
 git push origin master
+source punto_files/.bashrc
+cd pandas_ejercicios/
+code .
+python3 df.py
+all
+cd DATASETS/
+all
+cd call_of_duty/
+all
+python3 df.py
+cd ..
+python3 df.py+
+python3 df.py
+cd ~
+git status
+git add .
+git log
+git commit -m "pandas_documentation_1.5"
+git pull origin master
+git push origin master
+/usr/bin/python3.9 /home/lrb96/pandas_ejercicios/df.py
+source punto_files/.bashrc
+update
+cd pandas_ejercicios/
+code .
+python3 df.py
+cd ..
+pip install matplotlibpython -m pip install -U p
+python -m pip install -U pip
+python3 -m pip install -U pip
+python -m pip install -U matplotlib
+python3 -m pip install -U matplotlib
+python -m pip install -U pip
+cd pandas_ejercicios/
+python3 df.py
+cd ..
+code .
+python3 df.py
+update
+python3 df.py
+pip list
+python3 df.py
+$pip uninstall matplotlib
+$PIP uninstall matplotlib
+pip uninstall matplotlib
+/bin/python3.9
+python3 df.py
+pip install matplotlib
+python3 df.py
+cd pandas_ejercicios/
+code .
+python3 df.py
+python3 df.py
+cd ..
+python3 df.py
+cd pandas_ejercicios/
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+cd ..
+pip uninstall matplotlib
+sudo apt-get install matplotlib
+pip list
+pip uninstall openpyxl
+python3 df.py
+sudo apt-get install matplotlib
+pip install matplotlib
+python3 df.py
+cd ~/.matplotlib/matplotlibrc
+cd pa
+cd pandas_ejercicios/
+code .
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+cd ..
+pip uninstall matplotlib
+pip list
+pip install matplotlib
+python3 df.py
+python3 df.py
+cd pandas_ejercicios/
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+python3 df.py
+cd ..
+python3 df.py
+cd pandas_ejercicios/|
+cd pandas_ejercicios/
+python3 df.py
+pip list
+cd ..
+pip install matplotlib --upgrade
+cd pandas_ejercicios/
+python3 df.py
+python -version
+python3 --version
+cd ..
+sudo apt-get install python3.11.0
+/usr/bin/python3.9 /home/lrb96/pandas_ejercicios/df.py

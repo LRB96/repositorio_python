@@ -1,0 +1,2 @@
+[INFO] [auth] [2022-11-01T19:59:33.404Z] Invalid copilot token: missing token: 403 
+[ERROR] [default] [2022-11-01T19:59:33.405Z] GitHub Copilot could not connect to server. Extension activation failed: "Thank you for participating in the GitHub Copilot Technical Preview. Your extended access has ended."
