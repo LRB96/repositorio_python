@@ -1,13 +1,8 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("DATASETS/call_of_duty/cod.csv")
+df = pd.read_csv("pandas_ejercicios/DATASETS/call_of_duty/cod.csv")
 print(df)
-adult_names = df.loc[df["kills"]>300,["name","level"]]
-print(adult_names)
-new_data = df.iloc[0:3,11]
-print(new_data)
-
 
 
 

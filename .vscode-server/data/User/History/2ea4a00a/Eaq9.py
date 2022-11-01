@@ -1,34 +1,20 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("DATASETS/call_of_duty/cod.csv")
+df = pd.read_csv("titanic.csv")
 print(df)
-adult_names = df.loc[df["kills"]>300,["name","level"]]
-print(adult_names)
-new_data = df.iloc[0:3,11]
-print(new_data)
-
-
-
-
-
-
-# df = pd.read_csv("titanic.csv")
-# print(df)
-# ages = df["Age"]
-# print(ages)
-# print(type(df["Age"]))
-# print(df["Age"].shape)
-# age_sex = df[["Age", "Sex"]]
-# print(age_sex)
-# print(type(df[["Age","Sex"]]))
-# print(df[["Age","Sex"]].shape)
-# print("\n")
-# above_35 = df[df["Age"]>35]
-# print(above_35)
-# print(above_35.shape)
-# class_23 = df[df["Pclass"].isin([2,3])]
-# print(class_23)
+ages = df["Age"]
+print(ages)
+print(type(df["Age"]))
+print(df["Age"].shape)
+age_sex = df[["Age", "Sex"]]
+print(age_sex)
+print(type(df[["Age","Sex"]]))
+print(df[["Age","Sex"]].shape)
+print("\n")
+above_35 = df[df["Age"]>35]
+print(above_35)
+print(above_35.shape)
 
 
 

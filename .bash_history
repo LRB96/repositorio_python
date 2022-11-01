@@ -1,19 +1,3 @@
-python3 ejercicio12.py
-python3 ejercicio12.py
-me gusta aprender a programar
-python3 ejercicio12.py
-python3 ejercicio12.py
-python3 ejercicio12.py
-python3 ejercicio12.py
-cd ~
-pwd
-mkdir djangoproject
-pip install virtualenv
-cd djangoproject/
-pip install virtualenv
-virtualenv venv
-sudo apt install python3-virtualenv venv
-explorer.exe .
 sudo apt install python-pip
 pip install virtualenv
 sudo apt-get install python3-venv
@@ -498,3 +482,19 @@ avenv
 python3 df.py
 avenv
 python3 df.py
+source punto_files/.bashrc
+cd pandas_ejercicios/
+code .
+python3 df.py
+cd ..
+pip install openyxl
+pip install openpyxl
+cd pandas_ejercicios/
+python3 df.py
+cd ..
+git status
+git add .
+git log
+git commit -m "pandas_documentation_1"
+git pull origin master
+git push origin master
