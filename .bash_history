@@ -1,54 +1,3 @@
-git status
-git add .
-git commit -m "ejercicios_python"
-git pull origin master
-git push origin master
-source punto_files/.bashrc
-update
-all
-cd ejercicios_python/
-code .
-python3 ejercicio.py
-cd ..
-git status
-git add .
-git log
-git commit -m "ejercicios_python2"
-git pull origin master
-git push origin master
-/bin/python3.9
-source punto_files/.bashrc
-update
-cd ejercicios_python/
-code .
-python3 ejercicio.py
-hola
-python3 ejercicio.py
-cd bucles/
-python3 ejercicio13.py
-cd ..
-mkdir listas_tuplas
-cd listas_tuplas/
-touch ejercicio1.py
-python3 ejercicio1.py
-touch ejercicio2.py ejercicio3.py ejercicio4.py ejercicio5.py
-all
-cd ..
-cd ~
-git status
-git add .
-git commit -m "bucles_python_listos_empiezan_listas"
-git pull origin master
-git push origin master
-source punto_files/.bashrc
-update
-cd ejercicios_python/
-code .
-cd listas_tuplas/
-python3 ejercicio2.py
-python3 ejercicio3.py
-python3 ejercicio4.py
-python3 ejercicio6.py
 touh ejercicio6.py ejercicio7.py ejercicio8.py ejercicio9.py ejercicio10.py ejercicio11.py ejercicio12.py ejercicio13.py
 touch ejercicio6.py ejercicio7.py ejercicio8.py ejercicio9.py ejercicio10.py ejercicio11.py ejercicio12.py ejercicio13.py
 python3 ejercicio5.py
@@ -498,3 +447,54 @@ python3 --version
 cd ..
 sudo apt-get install python3.11.0
 /usr/bin/python3.9 /home/lrb96/pandas_ejercicios/df.py
+python3 --version
+python3 --version
+ls /usr/bin/python*
+ls /usr/bin/python
+ls /usr/bin/python3.8.10
+sudo apt-get remove pytohn3.8.10
+sudo apt-get remove pytohn3.8
+sudo apt-get remove python3.8.10
+sudo apt-get remove python3.8
+sudo apt-get remove --auto-remove python3.8
+sudo apt-get purge python3.8
+sudo apt-get purge --auto-remove python3.8
+source punto_files/.bashrc
+update
+sudo apt-get update
+python3 --version
+sudo apt-get install python3
+python3 --version
+python3 df.py
+pip list
+pip install pip
+sudo apt-get install python-pip
+sudo apt-get install python3-pip
+sudo pacman -S python-pip
+sudo yum install python3 python3-wheel
+sudo dnf install python3 python3-wheel
+sudo zypper install python3-pip python3-setuptools python3-wheel
+pip install -U pip
+pip install pandas
+pip list
+pip install matplotlib
+python3 df.py
+cd pandas_ejercicios/
+python3 df.py
+cd ..
+source punto_files/.bashrc
+all
+cd pandas_ejercicios/
+python3 df.py
+code .
+python3 df.py
+cd ..
+all
+python3 df.py
+git log
+git status
+git add .
+ghit commit -m "pandas_documentation_2.0"
+git commit -m "pandas_documentation_2.0"
+git pull origin master
+git push origin master
