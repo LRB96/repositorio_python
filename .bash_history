@@ -1,11 +1,3 @@
-touh ejercicio6.py ejercicio7.py ejercicio8.py ejercicio9.py ejercicio10.py ejercicio11.py ejercicio12.py ejercicio13.py
-touch ejercicio6.py ejercicio7.py ejercicio8.py ejercicio9.py ejercicio10.py ejercicio11.py ejercicio12.py ejercicio13.py
-python3 ejercicio5.py
-/bin/python3.9
-source punto_files/.bashrc
-cd ejercicios_python/listas_tuplas/
-python3 ejercicio5.py
-python3 ejercicio6.py
 2
 python3 ejercicio6.py
 /bin/python3.9 /home/lrb96/ejercicios_python/listas_tuplas/ejercicio7.py
@@ -496,5 +488,13 @@ git status
 git add .
 ghit commit -m "pandas_documentation_2.0"
 git commit -m "pandas_documentation_2.0"
+git pull origin master
+git push origin master
+git status
+git status
+git pull origin master
+git push origin master
+git add .
+git commit -m "probando_llave"
 git pull origin master
 git push origin master

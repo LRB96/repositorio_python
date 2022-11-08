@@ -1,6 +1,0 @@
-pandas.ExcelWriter.book
-=======================
-
-.. currentmodule:: pandas
-
-.. autoproperty:: ExcelWriter.book

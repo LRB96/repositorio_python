@@ -1,6 +1,0 @@
-pandas.ExcelWriter.check\_extension
-===================================
-
-.. currentmodule:: pandas
-
-.. automethod:: ExcelWriter.check_extension

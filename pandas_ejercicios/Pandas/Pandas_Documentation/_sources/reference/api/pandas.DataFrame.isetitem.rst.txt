@@ -1,6 +1,0 @@
-pandas.DataFrame.isetitem
-=========================
-
-.. currentmodule:: pandas
-
-.. automethod:: DataFrame.isetitem
