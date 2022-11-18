@@ -1,0 +1,21 @@
+2022-11-17 19:54:06.324 [info] La validación encontró Git en: git
+2022-11-17 19:54:06.325 [info] Usando GIT 2.25.1 desde git
+2022-11-17 19:54:06.325 [info] > git rev-parse --show-toplevel [3ms]
+2022-11-17 19:54:06.325 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2022-11-17 19:54:06.325 [info] Log level: Info
+2022-11-17 19:54:06.325 [info] Open repository: /home/lrb96
+2022-11-17 19:54:06.325 [info] > git rev-parse --show-toplevel [5ms]
+2022-11-17 19:54:06.325 [info] > git remote --verbose [17ms]
+2022-11-17 19:54:06.325 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2022-11-17 19:54:06.325 [info] > git config --get commit.template [4ms]
+2022-11-17 19:54:06.325 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-11-17 19:54:06.325 [info] > git status -z -uall [136ms] (cancelled)
+2022-11-17 19:54:06.972 [info] > git fetch [1181ms]
+2022-11-17 19:54:06.987 [info] > git remote --verbose [9ms]
+2022-11-17 19:54:06.988 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+2022-11-17 19:54:06.989 [info] > git config --get commit.template [2ms]
+2022-11-17 19:54:06.998 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2022-11-17 19:54:07.103 [info] > git status -z -uall [121ms] (cancelled)
+2022-11-17 19:54:08.409 [info] > git config --local branch.master.github-pr-owner-number [36ms]
+2022-11-17 19:54:30.536 [info] > git check-ignore -v -z --stdin [28ms]
+2022-11-17 19:54:31.583 [info] > git check-ignore -v -z --stdin [23ms]

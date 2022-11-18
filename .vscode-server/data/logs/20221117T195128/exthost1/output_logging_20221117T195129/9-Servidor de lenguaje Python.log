@@ -1,0 +1,65 @@
+[Info  - 7:52:04 PM] (703) Pylance language server 2022.11.10 (pyright 4e50162d) starting
+[Info  - 7:52:04 PM] (703) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10/dist
+[Info  - 7:52:04 PM] (703) Starting service instance "pandas_python"
+[Info  - 7:52:04 PM] (703) Notebook support: LSP
+[Info  - 7:52:04 PM] (703) Interactive window support: LSP
+[Info  - 7:52:04 PM] (703) No configuration file found.
+[Info  - 7:52:04 PM] (703) No pyproject.toml file found.
+[Info  - 7:52:04 PM] (703) Setting pythonPath for service "pandas_python": "/home/lrb96/fastapi_python/main.py"
+[Warn  - 7:52:04 PM] (703) stubPath /home/lrb96/pandas_python/typings is not a valid directory.
+[Info  - 7:52:04 PM] (703) Unable to get Python version from interpreter
+[Info  - 7:52:04 PM] (703) Assuming Python platform Linux
+[Info  - 7:52:04 PM] (703) Searching for source files
+[Info  - 7:52:04 PM] (703) No source files found.
+[Info  - 7:52:04 PM] (703) Starting service instance "/home/lrb96/pandas_python/plots_pandas.ipynb"
+[Info  - 7:52:04 PM] (703) No configuration file found.
+[Info  - 7:52:04 PM] (703) No pyproject.toml file found.
+[Info  - 7:52:04 PM] (703) Setting pythonPath for service "/home/lrb96/pandas_python/plots_pandas.ipynb": "/home/lrb96/fastapi_python/main.py"
+[Warn  - 7:52:04 PM] (703) stubPath /home/lrb96/pandas_python/typings is not a valid directory.
+[Info  - 7:52:04 PM] (703) Unable to get Python version from interpreter
+[Info  - 7:52:04 PM] (703) Assuming Python platform Linux
+[Info  - 7:52:04 PM] (703) Searching for source files
+[Info  - 7:52:04 PM] (703) No source files found.
+[Info  - 7:52:04 PM] (703) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10/dist
+[Info  - 7:52:04 PM] (703) Background analysis(1) started
+[Info  - 7:52:04 PM] (703) Background analysis(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10/dist
+[Info  - 7:52:04 PM] (703) Background analysis(2) started
+[Info  - 7:52:04 PM] (703) Indexer background runner(3) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10/dist (index)
+[Info  - 7:52:04 PM] (703) Indexing(3) started
+[Info  - 7:52:05 PM] (703) Indexer done(3). indexed 445 files
+[Info  - 7:52:25 PM] (703) No configuration file found.
+[Info  - 7:52:25 PM] (703) No pyproject.toml file found.
+[Info  - 7:52:25 PM] (703) Setting pythonPath for service "/home/lrb96/pandas_python/plots_pandas.ipynb": "/bin/python3"
+[Warn  - 7:52:25 PM] (703) stubPath /home/lrb96/pandas_python/typings is not a valid directory.
+[Info  - 7:52:25 PM] (703) Assuming Python version 3.8
+[Info  - 7:52:25 PM] (703) Assuming Python platform Linux
+[Info  - 7:52:25 PM] (703) Searching for source files
+[Info  - 7:52:25 PM] (703) No source files found.
+[Info  - 7:52:25 PM] (703) Indexer background runner(4) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10/dist (index)
+[Info  - 7:52:25 PM] (703) Indexing(4) started
+[Info  - 7:52:26 PM] (703) Indexer done(4). indexed 519 files
+[Info  - 7:53:20 PM] (703) Starting service instance "/home/lrb96/pandas_python/One_Hot_Encoding.ipynb"
+[Info  - 7:53:20 PM] (703) No configuration file found.
+[Info  - 7:53:20 PM] (703) No pyproject.toml file found.
+[Info  - 7:53:20 PM] (703) Setting pythonPath for service "/home/lrb96/pandas_python/One_Hot_Encoding.ipynb": "/home/lrb96/fastapi_python/main.py"
+[Warn  - 7:53:20 PM] (703) stubPath /home/lrb96/pandas_python/typings is not a valid directory.
+[Info  - 7:53:20 PM] (703) Unable to get Python version from interpreter
+[Info  - 7:53:20 PM] (703) Assuming Python platform Linux
+[Info  - 7:53:20 PM] (703) Searching for source files
+[Info  - 7:53:20 PM] (703) No source files found.
+[Info  - 7:53:20 PM] (703) Background analysis(5) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10/dist
+[Info  - 7:53:20 PM] (703) Background analysis(5) started
+[Info  - 7:53:20 PM] (703) Indexer background runner(6) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10/dist (index)
+[Info  - 7:53:20 PM] (703) Indexing(6) started
+[Info  - 7:53:20 PM] (703) Indexer done(6). indexed 445 files
+[Info  - 7:53:25 PM] (703) No configuration file found.
+[Info  - 7:53:25 PM] (703) No pyproject.toml file found.
+[Info  - 7:53:25 PM] (703) Setting pythonPath for service "/home/lrb96/pandas_python/One_Hot_Encoding.ipynb": "/bin/python3"
+[Warn  - 7:53:25 PM] (703) stubPath /home/lrb96/pandas_python/typings is not a valid directory.
+[Info  - 7:53:25 PM] (703) Assuming Python version 3.8
+[Info  - 7:53:25 PM] (703) Assuming Python platform Linux
+[Info  - 7:53:25 PM] (703) Searching for source files
+[Info  - 7:53:25 PM] (703) No source files found.
+[Info  - 7:53:25 PM] (703) Indexer background runner(7) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.10/dist (index)
+[Info  - 7:53:25 PM] (703) Indexing(7) started
+[Info  - 7:53:27 PM] (703) Indexer done(7). indexed 534 files

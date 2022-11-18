@@ -1,0 +1,70 @@
+2022-11-17 19:51:28.319 [info] Extension host agent started.
+2022-11-17 19:51:28.589 [info] [127.0.0.1][ae68efab][ManagementConnection] New connection established.
+2022-11-17 19:51:28.603 [info] [127.0.0.1][653479ba][ExtensionHostConnection] New connection established.
+2022-11-17 19:51:28.786 [info] [127.0.0.1][653479ba][ExtensionHostConnection] <502> Launched Extension Host Process.
+2022-11-17 19:51:31.262 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2022-11-17 19:51:31.263 [info] Getting Manifest... github.copilot
+2022-11-17 19:51:31.263 [info] Getting Manifest... github.vscode-pull-request-github
+2022-11-17 19:51:31.263 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2022-11-17 19:51:31.263 [info] Getting Manifest... ms-python.python
+2022-11-17 19:51:31.263 [info] Getting Manifest... ms-python.vscode-pylance
+2022-11-17 19:51:31.263 [info] Getting Manifest... ms-toolsai.jupyter
+2022-11-17 19:51:31.263 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-11-17 19:51:31.327 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2022-11-17 19:51:31.329 [info] Installing extension: github.copilot
+2022-11-17 19:51:31.351 [info] Installing extension: github.vscode-pull-request-github
+2022-11-17 19:51:31.353 [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+2022-11-17 19:51:31.404 [info] Installing extension: ms-python.python
+2022-11-17 19:51:31.406 [info] Installing extension: ms-python.vscode-pylance
+2022-11-17 19:51:31.484 [info] Installing extension: ms-toolsai.jupyter-renderers
+2022-11-17 19:51:31.517 [info] Installing extension: ms-toolsai.jupyter
+2022-11-17 19:51:32.116 [info] Getting Manifest... ms-python.isort
+2022-11-17 19:51:32.463 [info] Installing extension: ms-python.isort ms-python.python
+2022-11-17 19:51:32.554 [info] Getting Manifest... ms-python.python
+2022-11-17 19:51:36.742 [info] Getting Manifest... ms-python.isort
+2022-11-17 19:51:36.937 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2022-11-17 19:51:36.937 [info] Waiting for already requested installing extension ms-python.isort ms-python.vscode-pylance
+2022-11-17 19:51:37.339 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.0a368710-4448-43c3-807f-133871eb7733: github.copilot
+2022-11-17 19:51:37.347 [info] Renamed to /home/lrb96/.vscode-server/extensions/github.copilot-1.59.7338
+2022-11-17 19:51:37.352 [info] Extracting completed. github.copilot
+2022-11-17 19:51:37.360 [info] Extension installed successfully: github.copilot
+2022-11-17 19:51:37.522 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.d210f5c3-2053-4c32-8be4-36a7cef9f822: ms-ceintl.vscode-language-pack-es
+2022-11-17 19:51:37.568 [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.73.11020955
+2022-11-17 19:51:37.581 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2022-11-17 19:51:37.586 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2022-11-17 19:51:37.675 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2022-11-17 19:51:37.787 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.7def1d7e-8a48-4a8d-9ec0-4c3197afd532: github.vscode-pull-request-github
+2022-11-17 19:51:37.793 [info] Renamed to /home/lrb96/.vscode-server/extensions/github.vscode-pull-request-github-0.54.1
+2022-11-17 19:51:37.798 [info] Extracting completed. github.vscode-pull-request-github
+2022-11-17 19:51:37.803 [info] Extension installed successfully: github.vscode-pull-request-github
+2022-11-17 19:51:38.040 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.7a16ce29-4adc-43e4-8710-c38604f3012d: ms-toolsai.jupyter-renderers
+2022-11-17 19:51:38.047 [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.12
+2022-11-17 19:51:38.049 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2022-11-17 19:51:38.052 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2022-11-17 19:51:40.356 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.5d4c0d59-73cb-4841-8aac-5f96586fe27b: ms-toolsai.jupyter
+2022-11-17 19:51:40.430 [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1303220346
+2022-11-17 19:51:40.438 [info] Extracting completed. ms-toolsai.jupyter
+2022-11-17 19:51:40.445 [info] Extension installed successfully: ms-toolsai.jupyter
+2022-11-17 19:51:43.516 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.078926a9-6e35-4f71-a2c0-917ad887a316: ms-python.python
+2022-11-17 19:51:43.536 [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-python.python-2022.18.2
+2022-11-17 19:51:43.541 [info] Extracting completed. ms-python.python
+2022-11-17 19:51:44.298 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.92e57657-9286-4312-b40b-8f07de04b3ef: ms-python.isort
+2022-11-17 19:51:44.306 [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-python.isort-2022.8.0
+2022-11-17 19:51:44.309 [info] Extracting completed. ms-python.isort
+2022-11-17 19:51:44.309 [info] Extension installed successfully: ms-python.python
+2022-11-17 19:51:44.309 [info] Extension installed successfully: ms-python.isort
+2022-11-17 19:51:46.312 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.4189e562-f5c8-4914-87ae-19527ea7ac05: ms-python.vscode-pylance
+2022-11-17 19:51:46.323 [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.30
+2022-11-17 19:51:46.325 [info] Extracting completed. ms-python.vscode-pylance
+2022-11-17 19:51:46.328 [info] Extension installed successfully: ms-python.vscode-pylance
+2022-11-17 19:52:37.734 [info] [127.0.0.1][653479ba][ExtensionHostConnection] <502> Starting WebSocket: RAW/api/kernels/e17b22ce-8195-4724-9356-3b36962731fc
+
+2022-11-17 19:53:25.588 [info] [127.0.0.1][653479ba][ExtensionHostConnection] <502> Starting WebSocket: RAW/api/kernels/4f2d30c5-0c9d-4bbc-ba40-e17603d7014f
+
+2022-11-17 19:54:02.443 [info] [127.0.0.1][ae68efab][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-17 19:54:02.496 [info] [127.0.0.1][653479ba][ExtensionHostConnection] <502> Extension Host Process exited with code: 0, signal: null.
+2022-11-17 19:54:04.039 [info] [127.0.0.1][c54d88dd][ManagementConnection] New connection established.
+2022-11-17 19:54:04.040 [info] [127.0.0.1][a87df5b4][ExtensionHostConnection] New connection established.
+2022-11-17 19:54:04.044 [info] [127.0.0.1][a87df5b4][ExtensionHostConnection] <867> Launched Extension Host Process.
+2022-11-17 19:54:32.984 [info] [127.0.0.1][c54d88dd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-17 19:54:33.006 [info] [127.0.0.1][a87df5b4][ExtensionHostConnection] <867> Extension Host Process exited with code: 0, signal: null.

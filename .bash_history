@@ -1,11 +1,3 @@
-2
-python3 ejercicio6.py
-/bin/python3.9 /home/lrb96/ejercicios_python/listas_tuplas/ejercicio7.py
-/bin/python3.9 /home/lrb96/ejercicios_python/listas_tuplas/ejercicio7.py
-cd ejercicios_python/listas_tuplas/
-python3 ejercicio7.py
-python3 ejercicio7.py
-python3 ejercicio7.py
 python3 ejercicio7.py
 python3 ejercicio7.py
 python3 ejercicio7.py
@@ -496,5 +488,13 @@ git pull origin master
 git push origin master
 git add .
 git commit -m "probando_llave"
+git pull origin master
+git push origin master
+source punto_files/.bashrc
+update
+explorer.exe .
+git log
+git add .
+git commit -m "archivos_pandas_python_documentacion"
 git pull origin master
 git push origin master

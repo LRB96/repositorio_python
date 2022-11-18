@@ -1,0 +1,36 @@
+2022-11-17 19:51:29.879 [info] Extension host with pid 502 started
+2022-11-17 19:51:29.900 [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/8f52f7e0dd3ef1fd4664814c6f9eb4dc/vscode.lock': Lock acquired.
+2022-11-17 19:51:30.206 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-17 19:51:30.513 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-17 19:51:30.513 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-17 19:51:31.274 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+2022-11-17 19:51:31.634 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5263
+2022-11-17 19:51:32.404 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-11-17 19:51:32.404 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-11-17 19:51:32.405 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-11-17 19:51:32.459 [warning] [Decorations] CAPPING events from decorations provider vscode.git 5263
+2022-11-17 19:51:34.916 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-17 19:51:34.916 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-17 19:51:34.928 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-17 19:51:34.928 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2022-11-17 19:51:34.928 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-11-17 19:51:34.929 [info] Eager extensions activated
+2022-11-17 19:51:53.037 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2022-11-17 19:51:54.819 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2022-11-17 19:51:58.220 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2022-11-17 19:52:02.226 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+2022-11-17 19:52:02.466 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2022-11-17 19:52:02.466 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2022-11-17 19:52:02.466 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2022-11-17 19:52:02.466 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2022-11-17 19:52:02.772 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.isort
+2022-11-17 19:52:02.772 [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+2022-11-17 19:52:03.541 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: false, activationEvent: 'onLanguage:python'
+2022-11-17 19:52:03.541 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2022-11-17 19:54:02.442 [info] Extension host terminating: received terminate message from renderer
+2022-11-17 19:54:02.442 [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/8f52f7e0dd3ef1fd4664814c6f9eb4dc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-11-17 19:54:02.475 [error] Error: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+    at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1202862440/out/extension.node.js:2:2194951)
+    at ChildProcess.emit (node:events:538:35)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2022-11-17 19:54:02.483 [info] Extension host with pid 502 exiting with code 0

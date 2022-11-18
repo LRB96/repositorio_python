@@ -1,8 +1,0 @@
-[2022-10-29 19:20:08.146] [remoteagent] [info] Extension host agent started.
-[2022-10-29 19:20:08.243] [remoteagent] [info] [127.0.0.1][24004e72][ManagementConnection] New connection established.
-[2022-10-29 19:20:08.278] [remoteagent] [info] [127.0.0.1][71eebe0e][ExtensionHostConnection] New connection established.
-[2022-10-29 19:20:08.503] [remoteagent] [info] [127.0.0.1][71eebe0e][ExtensionHostConnection] <89> Launched Extension Host Process.
-[2022-10-29 19:20:09.066] [remoteagent] [info] Deleted from disk github.copilot /home/lrb96/.vscode-server/extensions/github.copilot-1.55.7117
-[2022-10-29 19:20:09.109] [remoteagent] [info] Deleted from disk knisterpeter.vscode-github /home/lrb96/.vscode-server/extensions/knisterpeter.vscode-github-0.30.7
-[2022-10-29 19:20:20.154] [remoteagent] [info] [127.0.0.1][24004e72][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[2022-10-29 19:20:20.158] [remoteagent] [info] [127.0.0.1][71eebe0e][ExtensionHostConnection] <89> Extension Host Process exited with code: 0, signal: null.
